@@ -1,7 +1,7 @@
-# webpack-react-demo
+# webpack-react
 Self use react dev-env. 
 
-自用的React脚手架。
+自用的轻量级React脚手架，简化了webpack配置。
 
 # 使用方式
 download
